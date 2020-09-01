@@ -9,3 +9,14 @@ It takes time to pre-process dataset and train model. Some people may also face 
 
 We also show a downstream task. 
 We add an archive file and refer recent+previous research works.
+
+
+
+
+Follow this site: https://github.com/ncbi-nlp/BioSentVec#biowordvec
+
+They already did it: https://www.medrxiv.org/content/10.1101/19013268v1.full.pdf
+
+https://www.medrxiv.org/content/10.1101/19013268v1
+
+Try to submit on same site: https://www.medrxiv.org/submit-a-manuscript
